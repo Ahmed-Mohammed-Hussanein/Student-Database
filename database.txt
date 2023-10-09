@@ -1,0 +1,8 @@
+11 Zakaria Mohammed 4 412 413 414 415 416
+12 Rashoan Ali 3 410 413 412 1 10
+10 Mahmoud Akram 2 10 11 12 13 14
+1 Akram Alaa 2.5 1 11 450 601 1010
+10 Hussein Pop 2 10 11 12 13 14
+50 Amr Alaa 1.5 2020 15 16 20 14
+51 karam yassin 4 30 31 32 33 34
+15 Mo'men Hassan 3.5 41 42 43 45 56
